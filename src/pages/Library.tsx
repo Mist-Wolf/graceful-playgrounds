@@ -1,7 +1,7 @@
 import { useState } from 'react';
 import Navbar from '../components/Navbar';
 import Footer from '../components/Footer';
-import headerImage from '../assets/images/yo.jpg';
+import headerImage from '../assets/images/b.jpg';
 
 const Library = () => {
   const [activeCategory, setActiveCategory] = useState('Online Bible');
